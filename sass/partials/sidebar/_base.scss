@@ -55,7 +55,6 @@ aside.sidebar {
     }
   }
   a {
-    color: inherit;
     @include transition(color .5s);
   }
   &:hover a {
