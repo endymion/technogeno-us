@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://technogeno.us
+url: http://www.technogeno.us
 title: Technogenous
 subtitle: Teaching technology literacy to the next generation
 author: Ryan Porter
 simple_search: http://google.com/search
-description:
+description: Teaching technology literacy to the next generation
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
