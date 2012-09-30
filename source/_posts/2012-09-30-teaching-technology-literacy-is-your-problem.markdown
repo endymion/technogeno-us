@@ -3,7 +3,7 @@ layout: post
 title: "Teaching technology literacy is your problem"
 date: 2012-09-30 11:04
 comments: true
-categories: 
+categories: editorials
 ---
 
 {% img /images/posts/ipad-user.jpg %}
