@@ -3,7 +3,7 @@ layout: post
 title: "Social Oppression, Ruby and Codes of Conduct"
 date: 2012-10-01 15:06
 comments: true
-categories: news, girls
+categories: [news, girls]
 ---
 
 [Hackety Hack](http://hackety.com) is a valuable resource for teaching computer programming to kids.  It's a programming environment and a framework for providing interactive lessons.  [Steve Klabnik](http://steveklabnik.com) is the hero who took over the project after it was abandoned by its original author, [_why](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.single.html).
