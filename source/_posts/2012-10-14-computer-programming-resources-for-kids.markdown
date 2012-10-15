@@ -17,7 +17,7 @@ Thankfully, the world of educational programming tools is expanding.  Many of th
 
 <!-- more -->
 
-Educational programming environments come in three varieties.  Some tools use source code, and some use visual systems where programmers arrange graphical elements into programs.  While a third set of educational programming tools are disguised as games.
+Educational programming environments come in four varieties.  Some tools use source code, and some use visual systems where programmers arrange graphical elements into programs.  While a third set of educational programming tools are disguised as games.  And finally there are online programming environments that don't require downloading anything, but they do require a net connection.
 
 # Code programming environments
 
@@ -36,6 +36,24 @@ You can make two different kinds of programs with Hackety Hack.  You can make pr
 [Kids Ruby](http://www.kidsruby.com) is extremely similar to Hackety Hack.  But Kids Ruby has more features, which is not necessarily a good thing if your goal is to address the Little Coder's Predicament.  As the name implies, Kids Ruby is about Ruby, whereas the idea with Hackety Hack is for Ruby to get out of the way so that kids can do things with the computer.  In Kids Ruby, the lesson on game programming requires using Rubyisms like ```require 'gosu'``` to start the graphics system, and it requires the programmer to create a Ruby class.  These details are hidden away in Hackety Hack, and so Kids Ruby doesn't seem as accessible.  It's also not as slick and polished overall as Hackety Hack.
 
 The download for Kids Ruby is much larger than for Hackety Hack.  It also requires running an installation program, which can be a road block.  Kids Ruby does not include sample programs.
+
+### Logo
+
+{% img /images/posts/programming-resources/berkeley-logo.png %}
+
+Remember Logo?  Sure you do.  Logo is the simple programming language designed for kids that includes a "turtle" that you move around the screen with simple commands like "fd 100" (go forward 100) and "lt 90" (turn left 90 degrees).  You can still get the same simple Logo that you used as a kid from UC Berkeley, known as [Berkeley Logo](http://www.eecs.berkeley.edu/~bh/logo.html).  It's free, in both ways.  The download includes the C source code.
+
+### KinderLogo
+
+[KinderLogo](http://www.terrapinlogo.com/Kinderlogo.php) is a commercial product with a very long history, starting in 1984.  The goal of KinderLogo was to make Logo even *more* accessible.  What?  An even simpler Logo?  Yes, it's possible.
+
+KinderLogo [simplifies the Logo command set](https://sites.google.com/a/sahuarita.net/ms-fitch---sps-computer-lab/home/kinderlogo) to just one letter.  When they press "F", they don't have to give it a distance.  The turtle moves a standard distance.  When they press "R", they don't have to enter a number of degrees.  It always turns 30 degrees.  So three "R"s makes a right angle.  KinderLogo has been used by many kindergartners and first-graders over the last 30 years.  It currently costs $49.95 to use at home.
+
+### NetLogo
+
+{% img /images/posts/programming-resources/netlogo.png %}
+
+[NetLogo](http://ccl.northwestern.edu/netlogo) is Logo on steroids.  The fundamental programming language is very similar to plain old Logo, but it adds advanced features from more-powerful languages like closures and lambdas.  NetLogo provides a way to set up a user interface, with buttons and sliders and other UI elements that trigger actions.  Most importantly, in NetLogo you can have more than one turtle.  The whole point of NetLogo is to simulate complex systems like swarms of insects.  NetLogo is used by two broad groups of people: students, and scientific researchers who need to do simulations in fields like economics, physics, or biology.  It's accessible and also extremely powerful.  It's probably appropriate starting at around the high-school level.
 
 # Visual programming environments
 
@@ -75,7 +93,7 @@ Scratch was initially designed with informal educational settings in mind (after
 
 At over 400 MB, Alice is the largest and most complicated product to install in this list.  But it also can provide some of the most powerful and compelling results.  Alice is probably most appropriate for kids who show above-average aptitude for programming, who have already used and outgrown something like Hackety Hack or Scratch, and who have access to a teacher or mentor to help them.
 
-# Games
+# Games that teach programming
 
 The biggest problem with all of the systems above is that you have to be able to read to use them.  Younger kids shouldn't be excluded from the joys of teaching computers to obey.  Creating a set of instructions for a computer to run is an activity that demystifies the gizmos that will surround kids for the rest of their lives.  And sneaking programming lessons into games is a way to take advantage of the time when kids are excited to interact with phones and tablets.
 
@@ -94,3 +112,37 @@ The next time that you're using your iPad to entertain your six-year-old while w
 {% img /images/posts/programming-resources/cargo-bot.png %}
 
 [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) is a lot like Move The Turtle, but with a programmable cargo robot that moves crates around instead of a turtle that moves and draws lines.  The overall structure is pretty much the same.  A series of challenges, which you achieve by programming the behavior of the robot in advance.  Cargo Bot programs are totally visual and don't require the ability to read.  But younger kids will of course need assistance, just like with Move The Turtle.  And Cargo Bot is free.
+
+### ComputerCraft for MineCraft
+
+{% img /images/posts/programming-resources/computercraft.png %}
+
+[MineCraft](https://minecraft.net) is an immensely popular networked video game that encourages creativity by enabling kids to build the worlds that they play in.  In Minecraft, you build three-dimensional game levels with virtual blocks and then play a survival game in those levels.  But the levels aren't programmable.  A large aspect of the game is the multi-player mode using player-hosted servers. This allows for players to play in a common world, and achieve goals together.
+
+[ComputerCraft](http://www.computercraft.info) is an add-on for Minecraft that adds blocks to the Minecraft universe that are programmable using the Lua programming language.  The programmable objects are known as "turtles", and they can do anything that a human player can do.  They can attack, dig, chop, wirelessly communicate with one another, and all kinds of other things.  And Lua is a very simple programming language that makes it fun to tinker with ComputerCraft's turtles.
+
+### RedPower for MineCraft
+
+{% youtube 3wtcWuJecJA %}
+
+[RedPower](http://integratedredstone.wikispaces.com) (formerly known as Redstone) is another add-on for Minecraft that provides a set of objects that can be interconnected to create virtual electronics.  RedPower provides objects that are like the pieces of a virtual erector set that you can use to add behaviors to your Minecraft creations.  RedPower provides wires, logic gates, and "controllers", which are little computers that are programmable with the FORTH programming language.  RedPower is a little more intense than ComputerCraft, but some of the things that you can build with it are amazing.  RedPower components can also be used with ComputerCraft computers.  RedPower was built by a female programmer, who goes by [Eloraam](https://twitter.com/TheRealEloraam).
+
+# Online learning resources
+
+### Try Ruby
+
+{% img /images/posts/programming-resources/try-ruby.png %}
+
+[Try Ruby](http://tryruby.org) takes you immediately into a guided tutorial about the Ruby programming language.  Ruby is such a simple language that the lesson only takes a few minutes.  By the end of it, you're already over the hump.  You already understand the fundamentals of Ruby after just a few minutes.  Try Ruby is totally free.  It was originally developed (and abandoned) by Why The Lucky Stiff, the same guy who originally created (and abandoned) Hackety Hack.
+
+### Code Academy
+
+{% img /images/posts/programming-resources/code-academy.png %}
+
+[Code Academy](http://www.codecademy.com) is very much like Try Ruby, but in addition to Ruby it also includes lessons on JavaScript, Python, HTML/CSS, jQuery, and web site creation.  Code Academy is also free.  Code Academy is just as accessible as Try Ruby since it starts the first lesson immediately when you load the main page, but it's potentially more useful since it includes lessons on other programming languages.
+
+### Rails For Zombies
+
+{% youtube k4Zg6cLPO4Q %}
+
+[Rails for Zombies](http://railsforzombies.org) is for kids (and adults) who have learned the basics of computer programming and who are ready to put their skills to work on building web sites.  It's an interactive tutorial system like Try Ruby and Code Academy, with a focus on teaching how to build dynamic web sites using Ruby on Rails.  The first few lessons are free, and then the more advanced lessons require a $25/month subscription.  [Author's note: I have trained professional Rails developers from scratch using Rails for Zombies.]
