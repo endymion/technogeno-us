@@ -27,19 +27,19 @@ Educational programming environments come in three varieties.  Some tools use so
 
 Using Hackety Hack is simple, and that's the point.  You just [download the program](http://hackety.com/downloads/latest), and it includes the entire programming environment.  It's just a simple app file that you can run from anywhere, and it doesn't need an intaller wizard or anything like that.  You don't have to hassle with getting Ruby working, or with getting the GUI API working.  It just works.  You can download it and start programming in seconds.
 
-You can make two different kinds of programs with Hackety Hack.  You can make programs that interact with the user like a traditional desktop app, with windows and dialog boxes and buttons.  The example in the picture on this page demonstrates this kind of program, which interacts with the user through a dialog box and then an alert box.  Hackety Hack also includes a "turtle" drawing system, similar to Logo.
+You can make two different kinds of programs with Hackety Hack.  You can make programs that interact with the user like a traditional desktop app, with windows and dialog boxes and buttons.  The example in the picture at the top of this page demonstrates this kind of program, which interacts with the user through a dialog box and then an alert box.  Hackety Hack also includes a "turtle" drawing system, similar to Logo.
 
 ### Kids Ruby
 
 {% img /images/posts/programming-resources/kids-ruby.png %}
 
-[Kids Ruby](http://www.kidsruby.com) is extremely similar to Hackety Hack.  But Kids Ruby has more features, which is not necessarily a good thing if your goal is to address the Little Coder's Predicament.  As the name implies, Kids Ruby, is about Ruby.  Whereas the idea with Hackety Hack is for Ruby to get out of the way so that kids can do things with the computer.  In Kids Ruby, the lesson on game programming requires using Rubyisms like ```require 'gosu'``` to start the graphics system, and it requires the programmer to create a Ruby class.  These details are hidden away in Hackety Hack, and so Kids Ruby doesn't seem as accessible.  It's also not as slick and polished overall as Hackety Hack.
+[Kids Ruby](http://www.kidsruby.com) is extremely similar to Hackety Hack.  But Kids Ruby has more features, which is not necessarily a good thing if your goal is to address the Little Coder's Predicament.  As the name implies, Kids Ruby is about Ruby, whereas the idea with Hackety Hack is for Ruby to get out of the way so that kids can do things with the computer.  In Kids Ruby, the lesson on game programming requires using Rubyisms like ```require 'gosu'``` to start the graphics system, and it requires the programmer to create a Ruby class.  These details are hidden away in Hackety Hack, and so Kids Ruby doesn't seem as accessible.  It's also not as slick and polished overall as Hackety Hack.
 
 The download for Kids Ruby is much larger than for Hackety Hack.  It also requires running an installation program, which can be a road block.  Kids Ruby does not include sample programs.
 
 # Visual programming environments
 
-Most children (and most adults) are visual learners.  Visual programming environments teach visually, so that you can watch what your program does.  These systems can help to show young people that computer science isn't just about sitting in cubicles starting at boring code all day.  That computer programming is about being creative and having fun, not about doing math.
+Most children (and most adults) are visual learners.  This category of programming environments teach visually, so that you can watch what your program does.  These systems can help to show young people that computer science isn't just about sitting in cubicles starting at boring code all day.  That computer programming is about being creative and having fun, not about doing math.
 
 ### Scratch
 
