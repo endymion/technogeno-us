@@ -71,7 +71,7 @@ With Scratch, the programmer adds two-dimensional sprite images to "scenes", and
 
 {% img /images/posts/programming-resources/kodu.jpg %}
 
-Kodu, from Microsoft Research, is a free visual programming environment that's simpler and feels more like playing a video game than Scratch.  It runs on PCs and XBox, and the PC version is free.  Kodu is for creating three-dimensional games, and it is programmed entirely using visual icons.
+[Kodu](http://research.microsoft.com/en-us/projects/kodu/), from Microsoft Research, is a free visual programming environment that's simpler and feels more like playing a video game than Scratch.  It runs on PCs and XBox, and the PC version is free.  Kodu is for creating three-dimensional games, and it is programmed entirely using visual icons.
 
 {% blockquote %}
 Kodu is a new visual programming language made specifically for creating games. It is designed to be accessible for children and enjoyable for anyone. The programming environment runs on the Xbox, allowing rapid design iteration using only a game controller for input.
