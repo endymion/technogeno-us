@@ -109,7 +109,7 @@ The biggest problem with all of the systems above is that you have to be able to
 
 ### <a id="move-the-turtle"></a>Move The Turtle
 
-{% img /images/posts/programming-resources/stencyl.png %}
+{% img /images/posts/programming-resources/move-the-turtle.png %}
 
 [Move The Turtle](https://itunes.apple.com/us/app/move-turtle.-programming-for/id509013878?mt=8) is a puzzle game for iOS, very similar in structure to Angry Birds.  But instead of solving puzzles by flicking birds around with your fingers, you solve puzzles by programming a turtle to move around.  That's a very simple concept, but Move The Turtle teaches some very advanced programming concepts such as loops and control flow.  And for older kids, it includes some very neat tools for creating fractal graphics and doing pretty serious programming challenges.
 
