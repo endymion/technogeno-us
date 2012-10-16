@@ -21,7 +21,7 @@ Educational programming environments come in four varieties.  Some tools use sou
 
 # Code programming environments
 
-### Hackety Hack
+### <a id="hackety-hack"></a>Hackety Hack
 
 [**Hackety Hack**](http://hackety.com), pictured above, is an open-source program that was originally developed by Why The Lucky Stiff to address The Little Coder's Predicament.  After _why abandoned the project, it was taken over by Steve Klabnik, and it is actively maintained as a true open-source project, according to the ideas laid out by Why in [The Hackety Manifesto](https://github.com/hacketyhack/hacketyhack/wiki/the-hackety-manifesto).  Hackety Hack uses the Ruby programming language, and it provides a framework for interactive programming lessons.  But Ruby isn't the point.  Ruby is mainly useful for Hackety Hack because it just gets out of the way.
 
@@ -29,7 +29,7 @@ Using Hackety Hack is simple, and that's the point.  You just [download the prog
 
 You can make two different kinds of programs with Hackety Hack.  You can make programs that interact with the user like a traditional desktop app, with windows and dialog boxes and buttons.  The example in the picture at the top of this page demonstrates this kind of program, which interacts with the user through a dialog box and then an alert box.  Hackety Hack also includes a "turtle" drawing system, similar to Logo.
 
-### Kids Ruby
+### <a id="kids-ruby"></a>Kids Ruby
 
 {% img /images/posts/programming-resources/kids-ruby.png %}
 
@@ -37,19 +37,19 @@ You can make two different kinds of programs with Hackety Hack.  You can make pr
 
 The download for Kids Ruby is much larger than for Hackety Hack.  It also requires running an installation program, which can be a road block.  Kids Ruby does not include sample programs.
 
-### Logo
+### <a id="logo"></a>Logo
 
 {% img /images/posts/programming-resources/berkeley-logo.png %}
 
 Remember Logo?  Sure you do.  Logo is the simple programming language designed for kids that includes a "turtle" that you move around the screen with simple commands like "fd 100" (go forward 100) and "lt 90" (turn left 90 degrees).  You can still get the same simple Logo that you used as a kid from UC Berkeley, known as [Berkeley Logo](http://www.eecs.berkeley.edu/~bh/logo.html).  It's free, in both ways.  The download includes the C source code.
 
-### KinderLogo
+### <a id="kinderlogo"></a>KinderLogo
 
 [KinderLogo](http://www.terrapinlogo.com/Kinderlogo.php) is a commercial product with a very long history, starting in 1984.  The goal of KinderLogo was to make Logo even *more* accessible.  What?  An even simpler Logo?  Yes, it's possible.
 
 KinderLogo [simplifies the Logo command set](https://sites.google.com/a/sahuarita.net/ms-fitch---sps-computer-lab/home/kinderlogo) to just one letter.  When they press "F", they don't have to give it a distance.  The turtle moves a standard distance.  When they press "R", they don't have to enter a number of degrees.  It always turns 30 degrees.  So three "R"s makes a right angle.  KinderLogo has been used by many kindergartners and first-graders over the last 30 years.  It currently costs $49.95 to use at home.
 
-### NetLogo
+### <a id="netlogo"></a>NetLogo
 
 {% img /images/posts/programming-resources/netlogo.png %}
 
@@ -59,7 +59,7 @@ KinderLogo [simplifies the Logo command set](https://sites.google.com/a/sahuarit
 
 Most children (and most adults) are visual learners.  This category of programming environments teach visually, so that you can watch what your program does.  These systems can help to show young people that computer science isn't just about sitting in cubicles starting at boring code all day.  That computer programming is about being creative and having fun, not about doing math.
 
-### Scratch
+### <a id="scratch"></a>Scratch
 
 {% img /images/posts/programming-resources/scratch.png %}
 
@@ -67,7 +67,17 @@ Most children (and most adults) are visual learners.  This category of programmi
 
 With Scratch, the programmer adds two-dimensional sprite images to "scenes", and then programs the behavior of those images by dragging "blocks" from a palette and arranging them into programs.  You can set up behaviors for what happens when a sprite is clicked, or when the mouse rolls over it, or when it comes near other objects, or all kinds of things.  This is great experience because it's very similar to how how professional software development products work.
 
-### Stencyl
+### <a id="kodu"></a>Microsoft Kodu
+
+{% img /images/posts/programming-resources/kodu.jpg %}
+
+Kodu, from Microsoft Research, is a free visual programming environment that's simpler and feels more like playing a video game than Scratch.  It runs on PCs and XBox, and the PC version is free.  Kodu is for creating three-dimensional games, and it is programmed entirely using visual icons.
+
+{% blockquote %}
+Kodu is a new visual programming language made specifically for creating games. It is designed to be accessible for children and enjoyable for anyone. The programming environment runs on the Xbox, allowing rapid design iteration using only a game controller for input.
+{% endblockquote %}
+
+### <a id="stencyl"></a>Stencyl
 
 {% img /images/posts/programming-resources/stencyl.png %}
 
@@ -81,7 +91,7 @@ Our drag-and-drop gameplay designer pays homage to the successful MIT Scratch pr
 
 If your kids do well with Scratch, then the cost of Stencyl seems like a small price to pay for getting them excited about programming by enabling them to publish their games in the real-life App Store.
 
-### Alice
+### <a id="alice"></a>Alice
 
 {% youtube Nm7bv4wduTI %}
 
@@ -97,7 +107,7 @@ At over 400 MB, Alice is the largest and most complicated product to install in 
 
 The biggest problem with all of the systems above is that you have to be able to read to use them.  Younger kids shouldn't be excluded from the joys of teaching computers to obey.  Creating a set of instructions for a computer to run is an activity that demystifies the gizmos that will surround kids for the rest of their lives.  And sneaking programming lessons into games is a way to take advantage of the time when kids are excited to interact with phones and tablets.
 
-### Move The Turtle
+### <a id="move-the-turtle"></a>Move The Turtle
 
 {% img /images/posts/programming-resources/stencyl.png %}
 
@@ -107,13 +117,13 @@ But what's really interesting about Move The Turtle is that you don't have to be
 
 The next time that you're using your iPad to entertain your six-year-old while waiting for your food at a restaurant, try giving them Move The Turtle instead of Angry Birds.
 
-### Cargo Bot
+### <a id="cargo-bot"></a>Cargo Bot
 
 {% img /images/posts/programming-resources/cargo-bot.png %}
 
 [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) is a lot like Move The Turtle, but with a programmable cargo robot that moves crates around instead of a turtle that moves and draws lines.  The overall structure is pretty much the same.  A series of challenges, which you achieve by programming the behavior of the robot in advance.  Cargo Bot programs are totally visual and don't require the ability to read.  But younger kids will of course need assistance, just like with Move The Turtle.  And Cargo Bot is free.
 
-### ComputerCraft for MineCraft
+### <a id="computercraft"></a>ComputerCraft for MineCraft
 
 {% img /images/posts/programming-resources/computercraft.png %}
 
@@ -121,7 +131,7 @@ The next time that you're using your iPad to entertain your six-year-old while w
 
 [ComputerCraft](http://www.computercraft.info) is an add-on for Minecraft that adds blocks to the Minecraft universe that are programmable using the Lua programming language.  The programmable objects are known as "turtles", and they can do anything that a human player can do.  They can attack, dig, chop, wirelessly communicate with one another, and all kinds of other things.  And Lua is a very simple programming language that makes it fun to tinker with ComputerCraft's turtles.
 
-### RedPower for MineCraft
+### <a id="redpower"></a>RedPower for MineCraft
 
 {% youtube 3wtcWuJecJA %}
 
@@ -129,19 +139,19 @@ The next time that you're using your iPad to entertain your six-year-old while w
 
 # Online learning resources
 
-### Try Ruby
+### <a id="try-ruby"></a>Try Ruby
 
 {% img /images/posts/programming-resources/try-ruby.png %}
 
 [Try Ruby](http://tryruby.org) takes you immediately into a guided tutorial about the Ruby programming language.  Ruby is such a simple language that the lesson only takes a few minutes.  By the end of it, you're already over the hump.  You already understand the fundamentals of Ruby after just a few minutes.  Try Ruby is totally free.  It was originally developed (and abandoned) by Why The Lucky Stiff, the same guy who originally created (and abandoned) Hackety Hack.
 
-### Code Academy
+### <a id="code-academy"></a>Code Academy
 
 {% img /images/posts/programming-resources/code-academy.png %}
 
 [Code Academy](http://www.codecademy.com) is very much like Try Ruby, but in addition to Ruby it also includes lessons on JavaScript, Python, HTML/CSS, jQuery, and web site creation.  Code Academy is also free.  Code Academy is just as accessible as Try Ruby since it starts the first lesson immediately when you load the main page, but it's potentially more useful since it includes lessons on other programming languages.
 
-### Rails For Zombies
+### <a id="rails-for-zombies"></a>Rails For Zombies
 
 {% youtube k4Zg6cLPO4Q %}
 
