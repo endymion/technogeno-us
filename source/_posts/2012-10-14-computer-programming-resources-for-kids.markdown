@@ -3,7 +3,7 @@ layout: post
 title: "Computer Programming Resources For Kids"
 date: 2012-10-14
 comments: true
-categories: [resources, programming, visual programming, programming games]
+categories: [resources, computer programming, visual programming, programming games]
 description: A collection of resources for teaching kids about computer programming.
 ---
 
