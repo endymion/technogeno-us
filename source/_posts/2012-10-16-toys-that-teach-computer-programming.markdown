@@ -3,7 +3,7 @@ layout: post
 title: "Toys That Teach Computer Programming"
 date: 2012-10-16
 comments: true
-categories: [resources, computer programming, toys]
+categories: [resources, computer programming, programming toys]
 published: true
 ---
 
