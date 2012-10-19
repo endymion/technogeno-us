@@ -18,7 +18,7 @@ Heidi Wang explains that there are three problems stopping girls from going into
 
 <!-- more -->
 
-*Girls Teaching Girls To Code* is a program to inspire more girls to pursue opportunities in computer science and engineering.  Over one weekend, 30 Stanford and UC Berkeley women in Computer Science will teach 100 Bay Area high school girls to code.  The goal of the program is to empower girls by teaching them that:
+*Girls Teaching Girls To Code* is a program to inspire more girls to pursue opportunities in computer science and engineering.  Over one weekend, 30 Stanford and UC Berkeley women in Computer Science will teach 100 San Francisco Bay Area high school girls to code.  The goal of the program is to empower girls by teaching them that:
 
 1. They can code.
 2. That coding is useful and fun.
