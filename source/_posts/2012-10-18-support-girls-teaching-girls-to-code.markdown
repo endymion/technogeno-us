@@ -3,7 +3,7 @@ layout: post
 title: "Support Girls Teaching Girls To Code"
 date: 2012-10-18 21:58
 comments: true
-categories: [computer programming, girls]
+categories: [news, computer programming, girls]
 ---
 
 {% youtube qPxUIFUheOs %}
