@@ -8,7 +8,7 @@ categories: [news, computer programming, girls]
 
 {% youtube qPxUIFUheOs %}
 
-Only 14.5% of engineers in the job force today are women.  Why is that?  Is it because women make terrible engineers.  No, it isn't.  Women make excellent engineers.  So then what's the problem?
+Only 14.5% of engineers in the job force today are women.  Why is that?  Is it because women make terrible engineers.  No, it isn't.  Women make excellent engineers.  And a lot of the earliest computer programmers were women.  So then what's the problem?
 
 Heidi Wang explains that there are three problems stopping girls from going into computer science:
 
